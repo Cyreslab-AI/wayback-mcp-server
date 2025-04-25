@@ -2,6 +2,10 @@
 
 This is a Model Context Protocol (MCP) server that provides access to the Internet Archive's Wayback Machine. It allows you to retrieve archived versions of web pages and check available snapshots of URLs.
 
+<a href="https://glama.ai/mcp/servers/@Cyreslab-AI/wayback-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Cyreslab-AI/wayback-mcp-server/badge" alt="Wayback Machine Server MCP server" />
+</a>
+
 ## Features
 
 ### Tools
