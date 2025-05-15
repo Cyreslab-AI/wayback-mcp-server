@@ -1,5 +1,7 @@
 # Wayback Machine MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@Cyreslab-AI/wayback-mcp-server)](https://smithery.ai/server/@Cyreslab-AI/wayback-mcp-server)
+
 This is a Model Context Protocol (MCP) server that provides access to the Internet Archive's Wayback Machine. It allows you to retrieve archived versions of web pages and check available snapshots of URLs.
 
 <a href="https://glama.ai/mcp/servers/@Cyreslab-AI/wayback-mcp-server">
@@ -38,6 +40,15 @@ This is a Model Context Protocol (MCP) server that provides access to the Intern
 
 ## Installation
 
+### Installing via Smithery
+
+To install Wayback Machine Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@Cyreslab-AI/wayback-mcp-server):
+
+```bash
+npx -y @smithery/cli install @Cyreslab-AI/wayback-mcp-server --client claude
+```
+
+### Manual Installation
 1. Clone this repository
 2. Install dependencies: `npm install`
 3. Build the project: `npm run build`
